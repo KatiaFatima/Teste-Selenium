@@ -14,7 +14,7 @@ Interface é um recurso da orientação a objeto utilizado em Java que define a�
 
 Durante a automação, muitas vezes somos obrigados a pressionar enter, control, tab, setas e outras teclas que não sejam de texto, além do teclado.
 
-Exemplo: driver.findElement(By.id("Value")).sendKeys(Keys.ENTER);
+Exemplo: ((ChromeDriver) navegador).findElement(By.id("inputPassword")).sendKeys(new StringBuffer("123456789"));
 
 Outras teclas de atalho em: Keyboard keys
 
