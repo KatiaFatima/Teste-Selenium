@@ -20,7 +20,8 @@ Outras teclas de atalho em: Keyboard keys
 
 <h1>Login</h1>
 Execute login no site usando  usuário e senha  especificados  para execução desse teste
-
+Realizar um Teste com um email não cadastrado,então será exibido uma mensagem informativa ao usuário
+Clicar no botão Esqueci minha senha,o usuário é direcionado a uma outa página onde ao colocar um email cadastrado e válido a instruções serão enviados para esse email.
 Para executar o teste basta baixar o projeto e clicar em RUN Teste Login
 
 
